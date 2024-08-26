@@ -12,6 +12,7 @@ Nesse desafio da Trilha Java Básico da DIO, Vamos exercitar todo o conteúdo ap
 
 
 |Atributo    |	Tipo  |	Exemplo     |
+| ---------- |--------|-------------|  
 |Numero	     | Inteiro|	1021        |
 |Agencia     |  Texto |	067-8       |
 |Nome Cliente|	Texto |MARIO ANDRADE|
